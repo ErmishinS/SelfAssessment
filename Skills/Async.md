@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop: 🖐️ used
+  - try..catch: 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🖐️ used
   - Thenable
   - Promise
-  - Async/await
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -47,7 +47,7 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 🖐️ used
   - Observable/Observer
   - Readable
   - Writable
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 🖐️ used
   - setImmediate
   - nextTick
   - AbortController
