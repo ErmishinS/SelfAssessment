@@ -1,5 +1,5 @@
 ## Asynchronous programming
-👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+
 - Theory
   - Event loop: 👂 heard
   - try..catch: 👂 heard
