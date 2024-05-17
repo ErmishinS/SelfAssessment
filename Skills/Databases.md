@@ -1,0 +1,94 @@
+## Databases
+
+- Theory and concepts
+  - Data types
+  - Performance tuning
+  - Migrations: 🖐️ used
+  - Schema versioning
+  - Backup and recovery
+  - Database scalability
+  - Relational databases: 🖐️ used
+  - Key-value store
+  - Tuple store
+  - Graph databases
+  - Object databases
+  - Column databases
+  - Navigational databases
+  - Hierarchical databases: 👂 heard
+  - In-memory databases
+  - Inverted index
+  - Data control language (DCL)
+  - Data definition language (DDL)
+  - Data manipulation language (DML)
+  - Data query language (DQL)
+- Relational
+  - Entity-Relationship Diagram
+  - Normal forms
+  - Indexing
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
+  - Transactions
+  - Views
+  - Subqueries
+  - Stored procedures
+  - SQL functions
+  - Materialized views
+  - Replications
+  - Virtualization
+- SQL
+  - SELECT: 🎓 known
+  - INSERT: 🎓 known
+  - UPDATE: 🎓 known
+  - DELETE: 🎓 known
+  - LIMIT
+  - OFFSET
+  - ORDER BY
+  - GROUP BY
+  - HAVING
+  - EXISTS
+  - JOIN: 👂 heard
+  - INNER JOIN
+  - LEFT JOIN
+  - RIGHT JOIN
+  - UNION
+  - DISTINCT
+  - WHERE: 🎓 known
+  - LIKE: 🎓 known
+  - IN
+  - BETWEEN: 🎓 known
+  - CREATE TABLE
+  - ALTER TABLE
+  - DROP TABLE
+  - PRIMARY KEY: 🎓 known
+  - FOREIGN KEY: 🎓 known
+  - CHECK
+  - DEFAULT
+  - INDEX
+  - UNIQUE
+  - GRANT
+  - REVOKE
+  - DENY
+  - EXPLAIN
+- Engines
+  - PostgreSQL: 👂 heard
+  - Oracle
+  - MySQL: 🖐️ used
+  - MariaDB
+  - MS SQL Server
+  - Redis
+  - Rabbit
+  - MongoDB: 👂 heard
+  - Memcached
+  - Riak
+  - DB2
+  - SQLite: 👂 heard
+  - DynamoDB
+  - Firebase
+- Data engineering
+  - Data warehousing
+  - Business intelligence
+  - Big data
+  - Data analysis
+  - AI tools
+  - Cloud databases
+  - Data Visualization

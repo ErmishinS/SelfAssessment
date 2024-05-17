@@ -25,14 +25,14 @@
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
   - Thenable
-  - Promise
+  - Promise: 👂 heard
   - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
   - Signal

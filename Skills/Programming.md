@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🖐️ used
+  - value: 🙋 explained
   - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
+  - variable: 🙋 explained
+  - constant: 🙋 explained
   - scalar: 🖐️ used
   - literal
   - expression: 🖐️ used
   - heap
-  - function: 🖐️ used
-  - procedure: 🎓 known
-  - method: 🖐️ used
+  - function: 🙋 explained
+  - procedure: 🖐️ used
+  - method: 🙋 explained
   - class: 🖐️ used
   - prototype
   - event
@@ -21,18 +21,18 @@
   - flag
   - lexical scope
   - code block
-  - conditions: 🖐️ used
-  - loops: 🖐️ used
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
   - assignment
   - regular expression: 🖐️ used
   - interface: 🖐️ used
   - contract
-  - module: 🖐️ used
+  - module: 🙋 explained
   - call stack
 - Functions
   - signature
   - argument: 🖐️ used
-  - parameter: 🖐️ used
+  - parameter: 🙋 explained
   - pure function
   - lambda expression: 🖐️ used
   - side effects
@@ -40,43 +40,43 @@
   - partial application
   - curry
   - higher order
-  - recursion: 🖐️ used
+  - recursion: 🙋 explained
   - callback: 🎓 known
   - listener: 🎓 known
   - compose: 🎓 known
   - pipe
   - memoize: 🎓 know
-  - wrapper
+  - wrapper: 🎓 know 
   - functor
   - monad
   - monoid
   - generator: 🎓 known
   - coroutine
 - Data structures
-  - array: 🖐️ used
-  - structure: 🖐️ used
+  - array: 🙋 explained
+  - structure: 🙋 explained
   - record: 🖐️ used
   - enum: 🎓 known
   - instance
-  - object: 🖐️ used
-  - class: 🖐️ used
+  - object: 🙋 explained
+  - class: 🙋 explained
   - collection: 🖐️ used
-  - set: 🖐️ used
+  - set: 🙋 explained
   - hash table: 🎓 known
-  - linked list: 🖐️ used
+  - linked list: 🙋 explained
   - doubly list
   - unrolled list
   - circular list
-  - queue: 🎓 known
-  - stack: 🎓 known
+  - queue: 🖐️ used
+  - stack: 🖐️ used
   - deque
-  - tree: 🎓 known
-  - graph: 🎓 known
+  - tree: 🖐️ used
+  - graph: 🖐️ used
   - iterator: 🖐️ used
   - mutable state
   - immutable state
   - serialization
-  - string parsing: 🎓 known
+  - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
   - transpiler: 🎓 known
@@ -86,14 +86,14 @@
   - garbage collection
   - refactoring: 🖐️ used
   - code review: 🖐️ used
-  - antipatterns: 👂 heard
+  - antipatterns: 🎓 known
   - paradigm: 👂 heard
-  - algorithm: 👂 heard
-  - magic numbers: 👂 heard
+  - algorithm: 🎓 known
+  - magic numbers: 🎓 known
   - hardcode: 👂 heard
   - complexity: 👂 heard
   - decomposition: 🎓 known
-  - spaghetti: 👂 heard
+  - spaghetti: 🎓 known
   - silver bullet
   - not invented here
   - dead code: 👂 heard
@@ -101,6 +101,6 @@
   - duplicate code: 🎓 known
   - exception: 🖐️ used
   - return early
-  - unittest
+  - unittest: 👂 heard 
   - git: 🖐️ used
   - github: 🖐️ used

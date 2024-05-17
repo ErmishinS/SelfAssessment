@@ -4,14 +4,14 @@
   - Procedural programming: 🖐️ used
   - Imperative programming
   - Structured programming: 🖐️ used
-  - Non-structured programming
+  - Non-structured programming: 🖐️ used
   - Functional programming: 🎓 known
   - Prototype-based programming
   - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
@@ -21,15 +21,15 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor: 🎓 known
-  - new: 🎓 known
+  - constructor: 🖐️ used
+  - new: 🖐️ used
   - Static method: 🎓 known
   - Method: 🎓 known
   - Async method
-  - Getters, Setters: 👂 heard
-  - Public fields: 👂 heard
-  - Private fields
-  - Field declarations
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
   - Inheritance
   - Parent class: 🎓 known
   - Polymorphism: 🎓 known
@@ -51,7 +51,7 @@
   - Facade: 👂 heard
   - Proxy: 👂 heard
   - Chain of Responsibility
-  - Command
+  - Command: 👂 heard
   - Iterator: 👂 heard
   - State
   - Bridge
