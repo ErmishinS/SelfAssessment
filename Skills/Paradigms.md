@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
+  - Procedural programming: 🖐️ used
   - Imperative programming
-  - Structured programming: 🎓 known
+  - Structured programming: 🖐️ used
   - Non-structured programming
   - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -35,7 +35,7 @@
   - Polymorphism: 🎓 known
   - Abstract class
   - Interface: 👂 heard
-  - Encapsulation: 🎓 known
+  - Encapsulation: 🖐️ used
   - Hidden class: 👂 heard
   - Object form: 👂 heard
   - instance

@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - Object: 👂 heard
-  - this: 👂 heard
-  - arrow function: 👂 heard
-  - async function: 👂 heard
+  - Object: 🎓 known
+  - this: 🎓 known
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
   - call: 👂 heard
   - bind: 👂 heard
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof: 🎓 known
+  - typeof: 🖐️ used
   - destructuring: 👂 heard
   - generator: 👂 heard
   - iterator: 👂 heard
@@ -23,64 +23,64 @@
   - global
   - globalThis
   - window
-  - getters and setters: 👂 heard
-  - __proto__
+  - getters and setters: 🎓 known
+  - proto
   - prototype
   - equality operators
   - logical operators: 👂 heard
   - bitwise operators: 👂 heard
   - ternary operator: 👂 heard
-  - void: 👂 heard
+  - void: 🖐️ used
   - yield
-  - await: 👂 heard
+  - await: 🖐️ used
   - template literal
   - strict mode
-  - delete: 👂 heard
-  - in: 👂 heard
+  - delete: 🖐️ used
+  - in: 🖐️ used
   - super
   - Symbol
   - Reflect
 - Statements
-  - if: 🎓 known
-  - while: 🎓 known
-  - do..while: 🎓 known
-  - for: 🎓 known
-  - for..in: 👂 heard
-  - for..of: 👂 heard
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
   - for await: 👂 heard
-  - throw: 🎓 known
-  - break: 🎓 known
-  - continue: 🎓 known
-  - import: 🎓 known
-  - export: 🎓 known
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label: 👂 heard
-  - try..catch: 🎓 known
-  - switch: 🎓 known
-  - class: 🎓 known
-  - new Error: 👂 heard
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🎓 known
   - with
 - Functions
-  - function declaration: 👂 heard
-  - function expression: 👂 heard
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
   - return: 👂 heard
   - default parameters: 👂 heard
   - functional object: 👂 heard
 - Data structures
-  - Array: 🎓 known
-  - mixin: 👂 heard
+  - Array: 🖐️ used
+  - mixin: 🖐️ used
   - extend: 👂 heard
   - typed arrays
-  - Map: 👂 heard
-  - Set: 🎓 known
-  - undefined: 👂 heard
-  - null: 👂 heard
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
-  - timers: 👂 heard
+  - timers: 🖐️ used
   - EventEmitter: 👂 heard
   - RegExp
   - Date
-  - BigInt: 👂 heard
+  - BigInt: 🖐️ used
 - Infrastructure
   - V8
   - Node.js: 👂 heard
