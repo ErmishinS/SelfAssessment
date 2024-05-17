@@ -85,39 +85,39 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - Endpoint throttling: 👂 heard
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
+  - UDP: 👂 heard
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - HTTP/3 (QUIC): 👂 heard
+  - Long polling: 👂 heard
+  - REST: 👂 heard
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing: 👂 heard
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
-  - CSRF
-  - DNS
+  - CSRF: 👂 heard
+  - DNS: 👂 heard
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 👂 heard
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 👂 heard
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing: 👂 heard
+  - CI/CD: 👂 heard
   - Readable
   - Writable
   - Transform

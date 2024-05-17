@@ -1,8 +1,8 @@
 ## JavaScript
 
 - Language
-  - Object: 🎓 known
-  - this: 🎓 known
+  - Object: 🖐️ used
+  - this: 🖐️ used
   - arrow function: 🖐️ used
   - async function: 🖐️ used
   - call: 👂 heard
@@ -22,36 +22,36 @@
   - IIFE
   - global
   - globalThis
-  - window
+  - window: 🖐️ used
   - getters and setters: 🎓 known
   - proto
   - prototype
   - equality operators
-  - logical operators: 👂 heard
+  - logical operators: 🖐️ used
   - bitwise operators: 👂 heard
-  - ternary operator: 👂 heard
+  - ternary operator: 🖐️ used
   - void: 🖐️ used
   - yield
   - await: 🖐️ used
   - template literal
-  - strict mode
+  - strict mode: 🎓 known
   - delete: 🖐️ used
   - in: 🖐️ used
   - super
   - Symbol
   - Reflect
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
   - for..in: 🖐️ used
   - for..of: 🖐️ used
   - for await: 👂 heard
   - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
   - export: 🖐️ used
   - label: 👂 heard
   - try..catch: 🖐️ used
@@ -62,16 +62,16 @@
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🖐️ used
-  - return: 👂 heard
+  - return: 🎓 known
   - default parameters: 👂 heard
   - functional object: 👂 heard
 - Data structures
-  - Array: 🖐️ used
+  - Array: 🙋 explained
   - mixin: 🖐️ used
   - extend: 👂 heard
   - typed arrays
   - Map: 🖐️ used
-  - Set: 🖐️ used
+  - Set: 🙋 explained
   - undefined: 🖐️ used
   - null: 🖐️ used
   - Proxy
@@ -84,6 +84,6 @@
 - Infrastructure
   - V8
   - Node.js: 👂 heard
-  - npm: 👂 heard
-  - prettier: 👂 heard
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN: 👂 heard
