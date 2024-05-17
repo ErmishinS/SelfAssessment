@@ -45,7 +45,7 @@
   - listener: 🎓 known
   - compose: 🎓 known
   - pipe
-  - memoize: 🎓 known
+  - memoize: 🎓 know
   - wrapper
   - functor
   - monad
